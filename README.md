@@ -1,6 +1,6 @@
 # 👊 Rock Paper Scissors Game ✋✌️
 
-A sleek, modern, and interactive **Rock Paper Scissors** web application built using **HTML5, CSS3, and Vanilla JavaScript**. It features dynamic score tracking, detailed game statistics, a real-time match history log, and victory confetti animations.
+A sleek, modern, and interactive **Rock Paper Scissors** web application built using **HTML5, CSS3, and JavaScript**. It features dynamic score tracking, detailed game statistics, a real-time match history log, and victory confetti animations.
 
 ---
 
